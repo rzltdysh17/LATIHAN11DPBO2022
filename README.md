@@ -8,25 +8,25 @@ Repository ini dibuat untuk memenuhi Tugas Latihan 11 dalam mata kuliah Desain d
 ## Screenshoot Program Setelah Dijalankan
 - ### Buku
   <p align="center">
-      <img src= "https://github.com/rzltdysh17/LATIHAN11DPBO2022/blob/main/SS/buku.png" alt="Buku"/>
+      <img src= "https://github.com/rzltdysh17/LATIHAN11DPBO2022/blob/master/SS/buku.png" alt="Buku"/>
   </p>
   
 - ### Author
   <p align="center">
-      <img src= "https://github.com/rzltdysh17/LATIHAN11DPBO2022/blob/main/SS/author.png" alt="Author"/>
+      <img src= "https://github.com/rzltdysh17/LATIHAN11DPBO2022/blob/master/SS/author.png" alt="Author"/>
   </p>
   
 - ### Member
   <p align="center">
-      <img src= "https://github.com/rzltdysh17/LATIHAN11DPBO2022/blob/main/SS/member.png" alt="Member"/>
+      <img src= "https://github.com/rzltdysh17/LATIHAN11DPBO2022/blob/master/SS/member.png" alt="Member"/>
   </p>
  
  - ### Edit Member
   <p align="center">
-      <img src= "https://github.com/rzltdysh17/LATIHAN11DPBO2022/blob/main/SS/edit.png" alt="Edit Member"/>
+      <img src= "https://github.com/rzltdysh17/LATIHAN11DPBO2022/blob/master/SS/edit.png" alt="Edit Member"/>
   </p>
  
  - ### Peminjaman
   <p align="center">
-      <img src= "https://github.com/rzltdysh17/LATIHAN11DPBO2022/blob/main/SS/peminjaman.png" alt="Peminjaman"/>
+      <img src= "https://github.com/rzltdysh17/LATIHAN11DPBO2022/blob/master/SS/peminjaman.png" alt="Peminjaman"/>
   </p>
